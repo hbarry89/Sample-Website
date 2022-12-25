@@ -1,3 +1,2 @@
 # Sample-Website
-sample website using HTML
-Test
+Test sample website using HTML
